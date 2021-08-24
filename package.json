@@ -1,6 +1,6 @@
 {
   "name": "react-notification",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "The React Notification component is used to show notification details, Also user can mark a notification as read or remove.",
   "author": "PS-Bala",
   "license": "MIT",
