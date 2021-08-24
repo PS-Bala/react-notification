@@ -1,10 +1,10 @@
 {
-  "name": "react-notification",
+  "name": "bk-react-notification",
   "version": "1.0.0",
   "description": "The React Notification component is used to show notification details, Also user can mark a notification as read or remove.",
   "author": "PS-Bala",
   "license": "MIT",
-  "repository": "PS-Bala/react-notification",
+  "repository": "PS-Bala/bk-react-notification",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
